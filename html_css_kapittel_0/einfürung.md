@@ -75,4 +75,4 @@ Beide ip adressen füren zur selben Websiete. Sie unterscheiden sich in den letz
 1. Der Browser schickt eine Anfrage an die Webserver-Adresse (beim Protokoll HTTP).
 1. In der Anfrage steht unter anderem, welche Datei er aufrufen soll.
 1. Der Webserver sucht die Datei, liest sie aus und sendet sie an den browser zurück.
-1. Der Browser liest das Dokument und baut mir daraus die fertige Website auf, die ich sehe.
+1. Der Browser liest das Dokument und baut mir daraus die fertige Website auf, die ich sehe.  
